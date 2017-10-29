@@ -1,0 +1,18 @@
+	{
+		"type": "card",
+		"title": "**TRANSLATE_THIS**",
+		"slug": "grandparents",
+		"parents": [
+			"people"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "**el**"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "**el**"
+			}
+		]
+	}
